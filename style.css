@@ -50,6 +50,7 @@ header .name {
 }
 
 header .address {
+  margin: 10px 0;
   color: hsl(75, 94%, 57%);
 }
 

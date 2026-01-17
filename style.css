@@ -64,6 +64,6 @@ ul {
 }
 
 li {
-  padding: 5px 20px;
+  width: 100%;
   background-color: hsl(0, 0%, 20%);
 }

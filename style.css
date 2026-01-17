@@ -68,6 +68,7 @@ li {
   background-color: hsl(0, 0%, 20%);
   padding: 10px 0;
   margin: 20px 0;
+  text-align: center;
 }
 
 li a {

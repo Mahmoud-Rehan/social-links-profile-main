@@ -52,5 +52,5 @@ header .address {
 }
 
 header .job {
-  color: hsl(0, 0%, 20%);
+  margin: 20px 0;
 }

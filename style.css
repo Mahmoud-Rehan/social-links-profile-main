@@ -62,3 +62,8 @@ ul {
   align-items: center;
   justify-content: center;
 }
+
+li {
+  padding: 5px 20px;
+  background-color: hsl(0, 0%, 20%);
+}

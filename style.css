@@ -67,3 +67,8 @@ li {
   width: 100%;
   background-color: hsl(0, 0%, 20%);
 }
+
+li a {
+  font-style: normal;
+  color: white;
+}

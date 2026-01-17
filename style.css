@@ -50,3 +50,7 @@ header .name {
 header .address {
   color: hsl(75, 94%, 57%);
 }
+
+header .job {
+  color: hsl(0, 0%, 20%);
+}

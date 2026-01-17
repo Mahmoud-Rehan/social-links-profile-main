@@ -90,3 +90,8 @@ li a {
 li:hover a {
   color: #000;
 }
+
+li a:focus-visible {
+  outline: 2px solid hsl(75, 94%, 57%);
+  outline-offset: 2px;
+}

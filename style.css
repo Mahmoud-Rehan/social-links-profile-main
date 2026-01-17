@@ -23,7 +23,7 @@ body {
 
 .card {
   background-color: hsl(0, 0%, 12%);
-  padding: 20px;
+  padding: 20px 40px;
   border-radius: 6px;
   color: #fff;
 }

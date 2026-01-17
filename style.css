@@ -75,10 +75,6 @@ li {
   border-radius: 6px;
 }
 
-li:hover {
-  background-color: hsl(75, 94%, 57%);
-}
-
 li a {
   font-style: normal;
   color: white;
@@ -87,6 +83,7 @@ li a {
   font-weight: 600;
 }
 
-li:hover a {
+li a:hover {
+  background-color: hsl(75, 94%, 57%);
   color: #000;
 }
